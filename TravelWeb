@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Title</title>
+        <style>
+            h1{
+                color:#b1ede9;
+                background-color: rgba(16, 119, 175, 0.74);
+                text-align: center;
+                font-size:45px;
+                font-family:monospace;  
+                
+              }
+            
+            p {
+                color: #caecff; 
+                font-size: 30px;
+              }
+            
+            body {
+               background-image: url(Water.jpeg);
+               color: #caecff    
+              }
+            
+            img {
+                display:block;
+               margin: 5px auto;
+              }       
+            
+    </style>
+    </head>
+    <body> 
+        <h1>Galápagos Islands</h1>
+        <p><strong>Visit the Galápagos Islands for an unparalleled opportunity to see unique wildlife and pristine landscapes that inspired Darwin's theory of evolution.</strong></p>
+        <img src="Galapagos-Tortoise-Photo-by-Fotogrin.jpg" height=200/> 
+        <h2><b>Why Visit?</b></h2>
+        <p>Visiting the Galapagos Islands is a once-in-a-lifetime experience that offers unparalleled opportunities for adventure and discovery. Famous for its unique wildlife and breathtaking landscapes, the archipelago is a living laboratory of evolution, where you can encounter species found nowhere else on Earth, such as giant tortoises and marine iguanas. The pristine beaches, crystal-clear waters, and vibrant coral reefs provide a stunning backdrop for activities like snorkeling, diving, and hiking. Additionally, the islands’ commitment to conservation ensures that visitors can enjoy their natural beauty while supporting sustainable practices. Whether you’re a nature enthusiast, an aspiring scientist, or simply seeking a tranquil escape, the Galapagos promise a journey that will inspire and captivate you long after you leave.</p>
+        
+        <h1><strong>Things To Do...</strong></h1>
+        <ol>    
+        <li>Visit thewhite sands of beaches like Tortuga Bay and Puerto Villamil</li>
+        <li>Take the adventurous route for a hike to the top of the Sierra Negra Volcano, an active shield volcano that last erupted in 2018, providing a dazzling show for offshore boaters</li>    
+        <li>Spot unique species like giant tortoises, marine iguanas, blue-footed boobies, and sea lions.</li>
+        <li>Explore vibrant underwater ecosystems teeming with marine life, including sharks, rays, and colorful fish.</li>
+        <li>Stop at Puerto Ayora to explore the largest town in the Galapagos, with shops, restaurants, and local culture.</li>    
+        </ol>
+        
+        <a href="https://www.travelandleisure.com/trip-ideas/adventure-travel/how-to-travel-to-galapagos-islands" target="_blank">Learn More...</a>
+</body>
+</html>
